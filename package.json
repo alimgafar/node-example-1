@@ -1,0 +1,30 @@
+{
+  "name": "testapp",
+  "version": "0.0.0",
+  "description": "This example application is way cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alimgafar/node-example-1"
+  },
+  "keywords": [
+    "example",
+    "helloworld"
+  ],
+  "author": "Alim S. Gafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimgafar/node-example-1/issues"
+  },
+  "homepage": "https://github.com/alimgafar/node-example-1",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.4.8"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
